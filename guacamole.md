@@ -1,9 +1,13 @@
 # Guacamole
+
 ## Ingredients
 * avocado
-* Lime
+* Lime/lemon
 * salt
+  
 ## Instructions
 * peel the avocado
-* squeeze lime juice
+* squeeze lime/lemon juice
+* mash the avocadro
+* mix together
 
